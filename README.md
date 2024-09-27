@@ -21,7 +21,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+< Put sketch / Fi nal image here >
 
 ## Reflection
 
@@ -61,13 +61,12 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-My project is a simple but meaningful project to me. I painted stripes across the grid, but each color represents someone in my family. I asked my family members what their favorite colors were for the first run down, then I chose colors that reminded me of them for the stripes that go up. To begin it, I asked my Mom, Dad, brother, and sister. Their Favorite colors are green, pink, red, and blue. I then went in for a second layer and chose colors that I thought of when I thought about them. Those colors were light blue, yellow, orange, and wite. I chose these colors becuase they are all bright and somewhat related to a personal experience I had with each of them.
+My project is a simple but meaningful project to me. I painted stripes across the grid, but each color represents someone in my family. I asked my family members what their favorite colors were for the first run down, then I chose colors that reminded me of them for the stripes that go up. To begin it, I asked my Mom, Dad, brother, and sister. Their Favorite colors are green, pink, red, and blue. I then went in for a second layer and chose colors that I thought of when I thought about them. Those colors were light blue, yellow, orange, and white. I chose these colors becuase they are all bright and somewhat related to a personal experience I had with each of them.
 
 2. What are two things about your project that you are proud of?
 
-I am proud of the fact that 
+I am proud of the fact that I was able to implement a personal side of myself into the project, and I am also proud that I was able to instantiate both of the painters and their classes.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
->>>>>>> 70b68474a6df93681130967962a3e550897b266Q
+Something I would do differently would be to focus and take more time to finetune it, and also complete it on time so that I would have more time to correct things. Something I would change about my project would be to make it more complex somehow.
