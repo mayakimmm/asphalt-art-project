@@ -6,8 +6,10 @@ public class NeighborhoodRunner {
     BackgroundPainter bp = new BackgroundPainter ();
     PatternPainter pp = new PatternPainter ();    
 
+    // paints background
     bp.paintBackground ("White",32);
-    
+
+    // starts painting first run through of parrtern going down.
      pp.paintPattern ("DarkSeaGreen");
       pp.turnRight();
     pp.move();
@@ -24,6 +26,8 @@ public class NeighborhoodRunner {
     pp.move();
     pp.turnRight();
  pp.paintPattern ("SkyBlue");
+
+    // moves down and starts painting second layer of pattern going up
     pp.turnLeft();
     pp.move();
     pp.turnLeft();
